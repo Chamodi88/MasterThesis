@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test_images</folder>
+	<filename>image6.jpg</filename>
+	<path>C:\Users\bcham\Documents\Tensorflow\workspace\Nicaragua\test_images\image6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not plam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>776</xmin>
+			<ymin>674</ymin>
+			<xmax>866</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>not plam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>683</xmin>
+			<ymin>822</ymin>
+			<xmax>779</xmax>
+			<ymax>915</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>not plam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>558</ymin>
+			<xmax>377</xmax>
+			<ymax>649</ymax>
+		</bndbox>
+	</object>
+</annotation>
